@@ -73,15 +73,17 @@ that automatically highlights your code.
 
 ## Installation
 
-* Python 3.7+ is required
+* Python 3.8 to 3.11 is required for this patched version (see https://github.com/commercetest/guesslang/issues/1); this does not work on other versions.
 
-* Install the latest stable version:
+### For Python 3.7 
+* Install the previous stable version if you are using python 3.7:
 
 ```bash
 pip3 install guesslang
 ```
 
-* or install Guesslang from source code:
+### For Python 3.8, 3.9, 3.10, and 3.11
+* Install Guesslang from source code _which is necessary to use this patched fork of guesslang_:
 
 ```bash
 pip3 install .
