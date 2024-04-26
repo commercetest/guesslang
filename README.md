@@ -1,4 +1,4 @@
-# Guesslang [![Build Status](https://github.com/yoeo/guesslang/actions/workflows/python-package.yml/badge.svg)](https://github.com/yoeo/guesslang/actions) [![Documentation Status](https://readthedocs.org/projects/guesslang/badge/?version=latest)](http://guesslang.readthedocs.io/en/latest/?badge=latest) [![Pypi version](https://img.shields.io/pypi/v/guesslang.svg)](https://pypi.python.org/pypi/guesslang)
+# Guesslang [![Build Status](https://github.com/commercetest/guesslang/actions/workflows/python-package.yml/badge.svg)](https://github.com/commercetest/guesslang/actions) [![Documentation Status](https://readthedocs.org/projects/guesslang/badge/?version=latest)](http://guesslang.readthedocs.io/en/latest/?badge=latest) [![Pypi version](https://img.shields.io/pypi/v/guesslang.svg)](https://pypi.python.org/pypi/guesslang)
 
 ![Guesslang](docs/_static/images/guesslang-readme.png)
 
